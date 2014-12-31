@@ -1,0 +1,8 @@
+Poni¿ej 500 liczb:
+- suma (funkcja sum()) - ok. 50% ³¹cznego czasu
+
+500 - 20000 liczb:
+- odczyt z pliku (funkcja readFromFile()) - ok. 40-50% ³¹cznego czasu
+
+20000 - 1000000 liczb:
+- wypisanie liczb (funkcja write()) - od ok. 100000 ponad 90% czasu
