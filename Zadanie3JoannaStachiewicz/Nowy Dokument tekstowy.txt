@@ -1,0 +1,2 @@
+przyk³ad dodania liczby:
+curl -X GET localhost:8080/numbers/add?number=5.5
